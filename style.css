@@ -40,7 +40,11 @@
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.add-item .add-item__title {
+  margin:0 0 20px;
+}
+
+.add-item__wrapper {
   display: flex;
 }
 

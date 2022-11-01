@@ -55,6 +55,7 @@
 }
 
 .tasks-list__text,
+.add-item__input,
 .btn{
   outline: none;
 }
